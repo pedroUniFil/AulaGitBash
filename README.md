@@ -1,2 +1,2 @@
-# AulaGitBash
-Repositório para ser utilizado nas aulas de GitBash
+# Setor de alteração
+aqui devemos publicar as alterações via GitBash
