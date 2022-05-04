@@ -1,2 +1,3 @@
 # AulaGitBash
-Repositório para ser utilizado nas aulas de GitBash
+teste de alterações via VSCODE
+Pedro Arthur
